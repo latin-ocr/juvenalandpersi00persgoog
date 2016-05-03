@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./juvenalandpersi00persgoog_0208.png"; bbox 0 0 2888 4868; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 548 1845 889 2106">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 548 1845 889 2106">
+     <span class='ocr_line' id='line_1_1' title="bbox 670 1845 763 1908; baseline -0.011 0"><span class='ocrx_word' id='word_1_1' title='bbox 670 1845 763 1908; x_wconf 73' lang='lat' dir='ltr'><strong>mn</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 548 2020 889 2106; baseline -0.006 -2"><span class='ocrx_word' id='word_1_2' title='bbox 548 2020 889 2106; x_wconf 86' lang='lat' dir='ltr'><strong>SATIRES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 258 2359 1180 2470">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 258 2359 1180 2470">
+     <span class='ocr_line' id='line_1_3' title="bbox 258 2359 1180 2470; baseline 0 -4"><span class='ocrx_word' id='word_1_3' title='bbox 258 2381 482 2470; x_wconf 76' lang='lat' dir='ltr'>AULUs</span> <span class='ocrx_word' id='word_1_4' title='bbox 527 2382 832 2470; x_wconf 70' lang='lat' dir='ltr'><strong>Psssssws.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 867 2359 1180 2468; x_wconf 76' lang='lat' dir='ltr'><strong>FLACCUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 589 2721 913 2870">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 589 2721 913 2870">
+     <span class='ocr_line' id='line_1_4' title="bbox 589 2721 855 2772; baseline 0.004 -1"><span class='ocrx_word' id='word_1_6' title='bbox 589 2721 694 2771; x_wconf 67' lang='lat' dir='ltr'><strong>umam·</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 705 2722 784 2770; x_wconf 72' lang='lat' dir='ltr'>radere</span> <span class='ocrx_word' id='word_1_8' title='bbox 795 2736 855 2772; x_wconf 81' lang='lat' dir='ltr'>vero.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 743 2817 913 2870; baseline 0 -2"><span class='ocrx_word' id='word_1_9' title='bbox 743 2819 793 2868; x_wconf 75' lang='lat' dir='ltr'><strong>sat.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 803 2817 819 2868; x_wconf 83' lang='lat' dir='ltr'><strong>i.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 830 2818 846 2868; x_wconf 87' lang='lat' dir='ltr'><strong>l.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 860 2819 913 2870; x_wconf 81' lang='lat'><strong>107.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1448 4868">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1448 4868">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1448 4868; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1448 4868; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
